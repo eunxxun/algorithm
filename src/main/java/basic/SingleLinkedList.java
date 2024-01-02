@@ -1,6 +1,6 @@
 package basic;
 
-class Node {
+class Node<T> {
     int data;
     Node next = null;
 
